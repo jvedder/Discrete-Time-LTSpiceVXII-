@@ -1,0 +1,7 @@
+* Copyright (C) 2022 John Vedder. MIT License.
+*
+* Summation Block
+.subckt sum out in1 in2
+B1 out 0 V=v(in1) + v(in2)
+.ends sum
+

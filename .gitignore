@@ -1,0 +1,6 @@
+#ignore the output files
+*.net
+*.log
+*.raw
+*.op.raw
+
